@@ -15,6 +15,7 @@
 		878324231F27A67A00D062EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 878324211F27A67A00D062EC /* LaunchScreen.storyboard */; };
 		8783242E1F27A67A00D062EC /* catAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8783242D1F27A67A00D062EC /* catAppTests.swift */; };
 		878324391F27A67A00D062EC /* catAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 878324381F27A67A00D062EC /* catAppUITests.swift */; };
+		878324471F27BBBA00D062EC /* jasper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 878324461F27BBBA00D062EC /* jasper.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		878324341F27A67A00D062EC /* catAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = catAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		878324381F27A67A00D062EC /* catAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = catAppUITests.swift; sourceTree = "<group>"; };
 		8783243A1F27A67A00D062EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		878324461F27BBBA00D062EC /* jasper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jasper.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				878324171F27A67A00D062EC /* ViewController.swift */,
 				878324191F27A67A00D062EC /* Main.storyboard */,
 				8783241F1F27A67A00D062EC /* Assets.xcassets */,
+				878324461F27BBBA00D062EC /* jasper.jpg */,
 				878324211F27A67A00D062EC /* LaunchScreen.storyboard */,
 				878324241F27A67A00D062EC /* Info.plist */,
 				8783241C1F27A67A00D062EC /* catApp.xcdatamodeld */,
@@ -237,6 +240,7 @@
 			files = (
 				878324231F27A67A00D062EC /* LaunchScreen.storyboard in Resources */,
 				878324201F27A67A00D062EC /* Assets.xcassets in Resources */,
+				878324471F27BBBA00D062EC /* jasper.jpg in Resources */,
 				8783241B1F27A67A00D062EC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
